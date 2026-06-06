@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Golden Agency Insights"
 date: 2026-06-01
 description: "Agency growth strategies, client acquisition playbooks, and revenue optimization tips."
